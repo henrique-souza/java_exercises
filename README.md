@@ -1,2 +1,2 @@
-# java_exercises
+# JAVA EXERCISES
 Java college exercises
