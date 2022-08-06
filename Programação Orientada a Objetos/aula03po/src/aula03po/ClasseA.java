@@ -9,20 +9,7 @@ public class ClasseA extends SuperClasse{
     //Construtores
     public ClasseA(){
     }
-    
-    public ClasseA(double atr3){
-        setAtributo3(atr3);
-    }
-    
-    public ClasseA(String atr1, double atr2){
-        super(atr1, atr2);
-    }
-    
-    public ClasseA(String atr1, double atr2, double atr3){
-        super(atr1, atr2);
-        setAtributo3(atr3);
-    }
-    
+
     //Métodos de Acesso
     //-------
     //Setter

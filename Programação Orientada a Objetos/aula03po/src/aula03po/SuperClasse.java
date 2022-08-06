@@ -11,23 +11,6 @@ public class SuperClasse {
     //Construtores globais
     public SuperClasse() {
     }
-    
-    public SuperClasse(String atr1){
-        setAtributo1(atr1);
-    }
-    
-    public SuperClasse(double atr2){
-        setAtributo2(atr2);
-    }
-
-    public SuperClasse(String atr1, double atr2) {
-        setAtributo1(atr1);
-        setAtributo2(atr2);
-    }
-    public SuperClasse(double atr2, String atr1) {
-        setAtributo1(atr1);
-        setAtributo2(atr2);
-    }
 
     //Métodos de Acesso
     //Setters
